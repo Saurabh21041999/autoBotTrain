@@ -1,5 +1,4 @@
 # autoBotTrain
-# AutoChatBot Trainer
 
 autoBotTrain is a tool designed to automate the training process of chatbots by generating intents, utterances, and responses based on input text or document formats. This tool aims to streamline the development process of chatbots by reducing the manual effort required for data annotation and training data generation.
 
